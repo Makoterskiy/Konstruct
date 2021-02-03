@@ -80,7 +80,7 @@ body {
 
 .nav_link:hover {
     color: #00A4E5;
-    font-weight: 700;
+    text-shadow: 0 0 .65px #00A4E5, 0 0 .65px #00A4E5;
 }
 
 .header::after {
